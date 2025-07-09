@@ -1,0 +1,5 @@
+1.array.length returns the number of elements in the array
+2.Arrays have their own methods, and the first you will explore is the .push() method. This allows you to "push" a value to the end of an array. Here is an example to add the number 12 to the end of an array:
+3.Another method essential for this project is the .pop() method. It removes the last element from an array and returns that element.
+4. .push return the new length of an array.
+5..repeat() method available to strings. This method accepts a number as an argument, specifying the number of times to repeat the target string. For example, using .repeat()
